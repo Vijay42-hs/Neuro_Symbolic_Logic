@@ -1,0 +1,5 @@
+RULE: Benign cells are small.
+RULE: Early Pre-B cells are medium size.
+RULE: Pre cells have condensed chromatin.
+RULE: Pro cells (Pro-B) are characterized by large size and prominent nucleoli.
+RULE: Pro cells often have irregular nuclear contours.

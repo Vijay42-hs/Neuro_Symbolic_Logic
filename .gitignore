@@ -1,0 +1,33 @@
+# Python/PyTorch typical ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Data and databases
+data_processed/
+openlab/
+C-NMC 2019 (PKG)/
+Original/
+chroma/
+*.csv
+temp_train.csv
+temp_val.csv
+
+# Outputs and figures (Optional, uncomment to exclude)
+# *.png
+# *.jpg
+# *.jpeg
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
